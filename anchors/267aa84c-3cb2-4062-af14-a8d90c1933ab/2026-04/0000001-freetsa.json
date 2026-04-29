@@ -1,0 +1,12 @@
+{
+  "entity_id": "267aa84c-3cb2-4062-af14-a8d90c1933ab",
+  "anchored_chain_index": 1,
+  "anchored_chain_link_hash": "4398b3c1ed189c041eb9e0d144a29c932407bd56904bfc395aee13bca56b71c5",
+  "tsa_provider": "freetsa",
+  "provider_is_qualified": false,
+  "tsa_timestamp": "2026-04-25T12:00:00.000Z",
+  "tsa_serial": "aabbccdd",
+  "tsa_response_b64": "dHNyLWZyZWV0c2E=",
+  "anchor_trigger": "monthly_cron",
+  "published_at": "2026-04-29T19:54:59.761Z"
+}
