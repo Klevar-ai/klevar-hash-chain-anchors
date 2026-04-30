@@ -1,0 +1,12 @@
+{
+  "entity_id": "d5b5184b-0cd4-43fb-8fe0-bfc4595f396f",
+  "anchored_chain_index": 1,
+  "anchored_chain_link_hash": "48b1d0ba572e5347f59a26e7d57aa36fa77b477af720abc096fbd24f26cf7126",
+  "tsa_provider": "digicert_qtsp",
+  "provider_is_qualified": true,
+  "tsa_timestamp": "2026-04-25T12:00:00.000Z",
+  "tsa_serial": "aabbccdd",
+  "tsa_response_b64": "dHNyLWRpZ2ljZXJ0X3F0c3A=",
+  "anchor_trigger": "manual",
+  "published_at": "2026-04-30T21:38:25.621Z"
+}
