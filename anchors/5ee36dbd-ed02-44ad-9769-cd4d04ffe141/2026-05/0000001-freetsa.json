@@ -1,0 +1,12 @@
+{
+  "entity_id": "5ee36dbd-ed02-44ad-9769-cd4d04ffe141",
+  "anchored_chain_index": 1,
+  "anchored_chain_link_hash": "d63eafab3737bd4f20f6928cd7b6f4f404562caad9e7ddbff624f3c5e8c9d0fe",
+  "tsa_provider": "freetsa",
+  "provider_is_qualified": false,
+  "tsa_timestamp": "2026-04-25T12:00:00.000Z",
+  "tsa_serial": "beef",
+  "tsa_response_b64": "dHNyLWZyZWV0c2E=",
+  "anchor_trigger": "manual",
+  "published_at": "2026-05-09T10:31:10.045Z"
+}
