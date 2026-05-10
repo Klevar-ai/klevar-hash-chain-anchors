@@ -1,0 +1,12 @@
+{
+  "entity_id": "af196420-2a8a-4981-b138-cc0075ce9396",
+  "anchored_chain_index": 134,
+  "anchored_chain_link_hash": "175c148086bb5317514b14de41104e0a57de89b145f51af23659519fa32da743",
+  "tsa_provider": "opentimestamps",
+  "provider_is_qualified": false,
+  "tsa_timestamp": "2026-05-10T13:37:00.880Z",
+  "tsa_serial": null,
+  "tsa_response_b64": "8Ajc7dCDB1hCagjwEKMzqnG2algyoOtf+OGL2yAI8CBe3/89bVTyLawvUt9I89qQRGzskbhU90fbZojBsN94/QjwIMq+PUqzR1c/oMHGHmqK8EpNj4wIQXM5DQCvWs4QqScmCPEEagCJ/PAILSb08NjtqSYAg9/jDS75DI4uLWh0dHBzOi8vYWxpY2UuYnRjLmNhbGVuZGFyLm9wZW50aW1lc3RhbXBzLm9yZw==",
+  "anchor_trigger": "manual",
+  "published_at": "2026-05-10T13:37:01.018Z"
+}
