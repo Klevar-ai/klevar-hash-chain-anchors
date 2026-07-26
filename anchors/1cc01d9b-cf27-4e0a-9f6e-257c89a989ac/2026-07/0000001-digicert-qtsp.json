@@ -1,0 +1,12 @@
+{
+  "entity_id": "1cc01d9b-cf27-4e0a-9f6e-257c89a989ac",
+  "anchored_chain_index": 1,
+  "anchored_chain_link_hash": "d55e9ae049f22d4131491b9afa1a8d7a618607b37a5b128090a974a48e49ebfb",
+  "tsa_provider": "digicert_qtsp",
+  "provider_is_qualified": true,
+  "tsa_timestamp": "2026-04-25T12:00:00.000Z",
+  "tsa_serial": "beef",
+  "tsa_response_b64": "dHNyLWRpZ2ljZXJ0X3F0c3A=",
+  "anchor_trigger": "manual",
+  "published_at": "2026-07-26T14:18:55.200Z"
+}
