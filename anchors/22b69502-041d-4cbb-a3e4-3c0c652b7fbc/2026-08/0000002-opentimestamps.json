@@ -1,0 +1,12 @@
+{
+  "entity_id": "22b69502-041d-4cbb-a3e4-3c0c652b7fbc",
+  "anchored_chain_index": 2,
+  "anchored_chain_link_hash": "a97e3938a72e5d303848110c0b7fdf74f7ace78176acac6f9e4d52c051d7aa77",
+  "tsa_provider": "opentimestamps",
+  "provider_is_qualified": false,
+  "tsa_timestamp": "2026-08-01T06:00:01.933Z",
+  "tsa_serial": null,
+  "tsa_response_b64": "8AipKP7fAcr+LgjwIC4EFS1Eg+zRj0vcaOEO4PWTK/1X7zqWZoLQfAGFvLpqCPAg6YsVp1VWedBJxRhy/Fo3rppBxmnmnZ/P9Y3LBEmG7DYI8BCtjgwUNmlFT6ru3RFexJgOCPEggAGIog5TFFi2n/v+l1nUNvx5HTPUrecGGGkN6CGlbOgI8CBmccB9hStdtcHcsBQNvl2I3rdvCrO5JrXOdYMWjVRMzQjwIGVE9RYgT1LgbeVp2KLRLYnkDR4QBn43d6z0y3upOFuXCPAgerwVSdoiqjqbfbrG9nROzPa0McxzUo1gdohUFQEvVQ0I8QRqbYth8Ag0o5GTu/bI7gCD3+MNLvkMji4taHR0cHM6Ly9hbGljZS5idGMuY2FsZW5kYXIub3BlbnRpbWVzdGFtcHMub3Jn",
+  "anchor_trigger": "monthly_cron",
+  "published_at": "2026-08-01T06:00:02.002Z"
+}
